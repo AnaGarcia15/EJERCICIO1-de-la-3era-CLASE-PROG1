@@ -1,0 +1,7 @@
+from math import pi
+
+def mi_funcion(num1):
+	area= pi* num1** 2
+	print ('El area del circulo es {}'.format(area))
+
+mi_funcion(5)
